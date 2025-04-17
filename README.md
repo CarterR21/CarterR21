@@ -2,7 +2,7 @@ Hello, I'm Carter. Computer cience college grad, now aspiring data analyst with 
 
 ### 📘 Projects
 
-Welcome to the portforlio of my latest [projects!](#https://github.com/CarterR21/Portfolio?tab=readme-ov-file#portfolio)
+Welcome to the portforlio of my latest [projects!](https://github.com/CarterR21/Portfolio?tab=readme-ov-file#portfolio)
 
 ### ⚙ Tools
 
