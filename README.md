@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm Carter. COmputer Science college grad, now aspiring data analyst with expertise in data analyst, reporting, query optimization, and database design
 
-<!--
-**CarterR21/CarterR21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📘 Projects
 
-Here are some ideas to get you started:
+Welcome to the portforlio of my latest [projects!](#portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙ Tools
+
+- Languages: Python, R, SQL Java
+- Databases: Microsoft SQL Server, mySQL, MongoDB, MariaDB
+- Visualization: Tableau, Goolge Charts, Microsoft Power BI
+
+👋 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/carterretzlaff/)
