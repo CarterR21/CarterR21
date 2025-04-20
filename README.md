@@ -1,4 +1,4 @@
-Hello, I'm Carter. College grad with a Bachelor's in Computer Science, now aspiring data analyst with expertise in data analyst, reporting, and database design
+Hello, I'm Carter. College grad with a Bachelor's in Computer Science, now aspiring data analyst with expertise in data analyst, querying data, reporting, and database design
 
 ### 📘 Projects
 
@@ -6,9 +6,9 @@ Welcome to the portforlio of my latest [projects!](https://github.com/CarterR21/
 
 ### ⚙ Tools
 
-- Languages: Python, R, SQL Java
-- Databases: Microsoft SQL Server, mySQL, MongoDB, MariaDB
-- Visualization: Tableau, Goolge Charts, Microsoft Power BI
+- Languages: Python (Pandas, NumPy, SciPy, MatPlotLib), R, SQL Java
+- Databases: Microsoft SQL Server, MySQL, MongoDB, MariaDB, Microsoft Azure(DataBricks, Azure Data Lake, Azure Data Warehouse
+- Visualization: Tableau, Excel, Microsoft Power BI
 
 ### 👋 Connect with me
 
