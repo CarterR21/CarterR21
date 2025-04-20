@@ -6,7 +6,7 @@ Welcome to the portforlio of my latest [projects!](https://github.com/CarterR21/
 
 ### ⚙ Tools
 
-- Languages: Python (Pandas, NumPy, SciPy, MatPlotLib), R, SQL Java
+- Languages: Python (Pandas, NumPy, SciPy, MatPlotLib), R, SQL, Java
 - Databases: Microsoft SQL Server, MySQL, MongoDB, MariaDB, Microsoft Azure(DataBricks, Azure Data Lake, Azure Data Warehouse
 - Visualization: Tableau, Excel, Microsoft Power BI
 
