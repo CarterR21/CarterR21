@@ -1,4 +1,4 @@
-Hello, I'm Carter. College grad with a Bachelor's in Computer Science, now aspiring data analyst with expertise in data analyst, querying data, reporting, and database design
+Hello, I'm Carter. College grad with a Bachelor's in Computer Science, now aspiring data analyst with expertise in data analytics, querying data, reporting, and database design along with a love to learn and gain insights!
 
 ### 📘 Projects
 
